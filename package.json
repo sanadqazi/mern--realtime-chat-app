@@ -10,7 +10,7 @@
   },
   "type": "module",
   "keywords": [],
-  "author": "",
+  "author": "Sanad Qazi",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
